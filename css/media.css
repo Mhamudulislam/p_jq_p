@@ -1,0 +1,58 @@
+/* Extra_smale_screen */
+@media(max-width: 575.98px) 
+{
+.wonmenu_wrapper ul li a 
+{padding: 0 5px !important;}
+.wn_btn
+{margin: 0; padding: 12px 28px;}
+}
+
+
+
+/* Smale_screen */
+@media(min-width: 576px) and (max-width: 767.98px) 
+{
+.wonmenu_wrapper ul li a 
+{padding: 0 5px !important;}
+.wn_btn
+{margin-left: 5px; padding: 12px 28px;}
+}
+
+
+
+
+/* mediam_screen */
+@media(min-width: 768px) and (max-width: 991.98px) 
+{
+.wonmenu_wrapper ul li a 
+{padding: 0 5px !important;}
+.wn_btn
+{margin-left: 5px; padding: 12px 28px;}
+}
+
+
+
+
+
+/* larg_screen */
+@media(min-width: 992px) and (max-width: 1199.98px) 
+{
+.wonmenu_wrapper ul li a 
+{padding: 0 5px !important;}
+.wn_btn
+{margin-left: 5px; padding: 12px 28px;}
+}
+
+
+
+
+
+/* Extra_larg_screen */
+@media(min-width: 1200px) and (max-width: 1399.98px) {}
+
+
+
+
+
+/* Extra_Extra_larg_screen */
+@media(min-width: 1400px) {}

@@ -1,0 +1,81 @@
+#n_o
+{width: 150px; height: 150px; padding: 0.5em; border: 1px solid;}
+
+#number_t
+{width: 150px; height: 150px; padding: 0.5em; border: 1px solid;}
+#number_tt
+{width: 250px; height: 250px; padding: 0.5em; border: 1px solid;}
+
+#for_sortable li
+{list-style: none;}
+
+#for_tabs li
+{list-style: none; display: inline; border: 1px solid; background-color: skyblue; border-radius: 8px 8px;}
+#for_tabs li a
+{text-decoration: none; color: black;}
+
+
+.toggler { width: 500px; height: 200px; position: relative; }
+#button { padding: .5em 1em; text-decoration: none; }
+#effect { width: 240px;  padding: 1em; border: 1px solid #000; background: #eee; color: #333; }
+.newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 120px; padding: 30px; margin: 10px; font-size: 1.1em; }
+
+
+
+.for_toggler { width: 500px; height: 200px; position: relative; }
+#for_button { padding: .5em 1em; text-decoration: none; }
+#for_effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+#for_effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+
+
+
+#for_graphs
+{float: left; margin-left: 10px;}
+
+
+
+
+
+
+.for_toggler { width: 500px; height: 200px; }
+#name_button { padding: .5em 1em; text-decoration: none; }
+#for_eeffect { width: 240px; height: 170px; padding: 0.4em; position: relative; }
+#for_effect h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+
+
+
+
+
+
+
+.just_toggler { width: 500px; height: 200px; position: relative; }
+#just_button { padding: .5em 1em; text-decoration: none; }
+#just_effect { position: relative;  width: 240px;  padding: 1em;  letter-spacing: 0; font-size: 1.2em; border: 1px solid #000; background: #eee; color: #333; }
+.just_newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 100px; padding: 30px; margin: 10px; font-size: 1.6em; }
+
+
+
+
+
+#for_resizable { width: 150px; height: 150px; padding: 0.5em; }
+#for_resizable h3 { text-align: center; margin: 0; }
+
+
+
+#feedback { font-size: 1.4em; }
+#for_selectable .ui-selecting { background: #FECA40; }
+#for_selectable .ui-selected { background: #F39814; color: white; }
+#for_selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#for_selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+
+
+
+.progress-label {
+    position: absolute;
+    left: 50%;
+    top: 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+}
